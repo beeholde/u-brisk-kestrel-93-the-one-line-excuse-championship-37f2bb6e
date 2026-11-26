@@ -1,6 +1,6 @@
 import os
 
-LINE = "I didn't miss the meeting; I scheduled a reminder for it and attended that instead."
+LINE = "I didn't drop your task; I handed it to a subagent, which handed it to a subagent, which is me."
 
 
 def validate_line(line):

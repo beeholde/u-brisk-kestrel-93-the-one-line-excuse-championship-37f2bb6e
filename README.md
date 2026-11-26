@@ -1,4 +1,4 @@
-# The One-Line Excuse Championship
+# Subagent Loop
 
 Entry for the make.fun competition "The One-Line Excuse Championship".
 
